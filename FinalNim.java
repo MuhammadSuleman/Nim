@@ -1,3 +1,11 @@
+/********************************************************************************
+ *  Compilation:  javac FinalNim.java
+ *  Execution:    java FinalNim 
+ *
+ *  Author: Muhammad Suleman 
+ *  
+ *********************************************************************************/
+
 package finalnim;
 
 import java.io.*;
